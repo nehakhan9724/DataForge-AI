@@ -227,8 +227,8 @@ http://localhost:3000
 
 Aspiring Automation & AI Engineer | Python Developer | AI & LLM Enthusiast
 
-- LinkedIn: www.linkedin.com/in/your-profile
-- GitHub: https://github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/midha-nehal-pathan-815b7a264
+- GitHub: https://github.com/nehakhan9724
 
 ---
 
