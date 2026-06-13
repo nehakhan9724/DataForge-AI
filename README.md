@@ -1,6 +1,7 @@
 # 📊 Visual Data Assistant
 
 An AI-powered document extraction and analysis platform that transforms unstructured documents into structured, actionable data using Google's Gemini AI.
+Checkout the live App here: https://visual-data-frontend-260065454054.asia-south1.run.app/
 
 ## 🚀 Overview
 
